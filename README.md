@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/bl_airee" target="blank"><img src="https://img.shields.io/twitter/follow/bl_airee?logo=twitter&style=for-the-badge" alt="bl_airee" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📝 I regularly write articles about my coding journey on [linkedin.com/in/ogoh-blessing](linkedin.com/in/ogoh-blessing)
 
