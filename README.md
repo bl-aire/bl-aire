@@ -35,7 +35,7 @@
 
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bl-aire&show_icons=true&locale=en&layout=compact" alt="bl-aire" /></p>  
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bl-aire&show_icons=true&locale=en" alt="bl-aire" /></p>
+<p align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bl-aire&show_icons=true&locale=en" alt="bl-aire" /></p>
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://ko-fi.com/the_blaire"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="the_blaire" /></a></p>
