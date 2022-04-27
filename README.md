@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://media.istockphoto.com/vectors/young-female-character-writing-code-on-a-desktop-computer-working-vector-id1219473620?k=20&m=1219473620&s=612x612&w=0&h=rgN3XvnCmlaLpiFimQ9QaAoZcfV0OVKdrtN95CSwCHA=" style="margin-top:1em">
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bl-aire&label=Profile%20views&color=0e75b6&style=flat" alt="bl-aire" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bl-aire&label=Profile%20views&color=0e75b6&style=flat" alt="bl-aire" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/bl_airee" target="blank"><img src="https://img.shields.io/twitter/follow/bl_airee?logo=twitter&style=for-the-badge" alt="bl_airee" /></a> </p>
@@ -36,7 +36,7 @@
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bl-aire&show_icons=true&locale=en&layout=compact" alt="bl-aire" /></p>
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bl-aire&show_icons=true&locale=en" alt="bl-aire" /></p>
+<p align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=bl-aire&show_icons=true&locale=en" alt="bl-aire" /></p>
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://ko-fi.com/the_blaire"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="the_blaire" /></a></p>
