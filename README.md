@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ogoh_blessing@yahoo.com**
 
-- ⚡ Fun fact **When I am not coding, I sculpt art pieces for www.instagram.com/blaire.crafts**
+- ⚡ Fun fact **When I am not coding, I sculpt art pieces for Blaire's Craft at  https://instagram.com/blaire.crafts?igshid=YmMyMTA2M2Y=**
 
 <h3 align="left">Connect with me:</h3>
 
