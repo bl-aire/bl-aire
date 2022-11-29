@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles about my coding journey on [linkedin.com/in/ogoh-blessing](linkedin.com/in/ogoh-blessing)
+- 📝 I regularly write articles about my coding journey on my [blog](https://blaire.hashnode.dev)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Git, GitHub and Angular.**
 
 - 📫 How to reach me **ogoh_blessing@yahoo.com**
 
-- ⚡ Fun fact **When I am not coding, I sculpt art pieces for Blaire's Craft at  https://instagram.com/blaire.crafts?igshid=YmMyMTA2M2Y=**
+- ⚡ Fun fact **When I am not coding, I sculpt art pieces for [Blaire's Craft](https://instagram.com/blaire.crafts?igshid=YmMyMTA2M2Y=)**
 
 <h3 align="left">Connect with me:</h3>
 
