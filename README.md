@@ -3,13 +3,7 @@
 
 <h3 align="center">A talented Frontend developer from Nigeria who is based in Lagos.</h3>
 
-<!--![_dev-preview](https://user-images.githubusercontent.com/84882370/180600674-94a4fed0-d71b-4bb8-a4fd-03c110a6ddfa.png)-->
-
 <img src="https://user-images.githubusercontent.com/84882370/180600674-94a4fed0-d71b-4bb8-a4fd-03c110a6ddfa.png" align="right" alt="avatar" width=""/>
-
-<!--<img align="right" alt="coding" width="400" src="https://media.istockphoto.com/vectors/young-female-character-writing-code-on-a-desktop-computer-working-vector-id1219473620?k=20&m=1219473620&s=612x612&w=0&h=rgN3XvnCmlaLpiFimQ9QaAoZcfV0OVKdrtN95CSwCHA=" style="margin-top:1em">-->
-
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=bl-aire&label=Profile%20views&color=0e75b6&style=flat" alt="bl-aire" /> </p>-->
 
 
 <p align="left"> <a href="https://twitter.com/bl_airee" target="blank"><img src="https://img.shields.io/twitter/follow/bl_airee?logo=twitter&style=for-the-badge" alt="bl_airee" /></a> </p>
