@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ogoh Blessing Onyowoicho.</h1>
 
 
-<h3 align="center">A talented Frontend developer from Nigeria who is based in Lagos.</h3>
+<h3 align="center">A talented Frontend developer from Nigeria who is based in Abuja.</h3>
 
 <img src="https://user-images.githubusercontent.com/84882370/180600674-94a4fed0-d71b-4bb8-a4fd-03c110a6ddfa.png" align="right" alt="avatar" width=""/>
 
