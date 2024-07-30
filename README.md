@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/bl_airee" target="blank"><img src="https://img.shields.io/twitter/follow/bl_airee?logo=twitter&style=for-the-badge" alt="bl_airee" /></a> </p>
 
-- 🌱 I’m currently learning **React** and **three.js**
+- 🌱 I’m currently learning **Python** and **three.js**
 
 - 📝 I regularly write articles about my coding journey on my [blog](https://blaire.hashnode.dev) and you can also find me on [Gitlab](https://gitlab.com/bl-aire)
 
