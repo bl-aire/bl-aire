@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python** and **three.js**
 
-- 📝 I regularly write articles about my coding journey on my [blog](https://blaire.hashnode.dev) and you can also find me on [Gitlab](https://gitlab.com/bl-aire)
+- 📝 I regularly write articles about my coding journey on my [blog](https://blaire.hashnode.dev) and you can also find me on [Gitlab](https://gitlab.com/bl-aire) AND [GitHub](https://github.com/bla1re)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Git, GitHub, React and Angular.**
 
